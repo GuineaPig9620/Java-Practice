@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b45a342a-7112-4c11-8b71-5190df6a8d76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Java-Practice.git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trunk/IOapplication/saves" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/trunk/IOapplication/saves/uqstlucia.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trunk/IOapplication/src/readApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/trunk/IOapplication/src/readApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iEPJcA9GTUixOhSq2GHH2Bwq4Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\GuineaPig9620\Java-Practice.git\trunk" />
+      <recent name="C:\Users\User\Desktop\GuineaPig9620\Java-Practice.git\trunk\IOapplication\saves" />
+      <recent name="C:\Users\User\Desktop\GuineaPig9620\Java-Practice.git\branches" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\User\Desktop\GuineaPig9620\Java-Practice.git" />
+          <option name="myCopyRoot" value="C:\Users\User\Desktop\GuineaPig9620\Java-Practice.git" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\User\Desktop\GuineaPig9620\Java-Practice.git" />
+          <option name="myCopyRoot" value="C:\Users\User\Desktop\GuineaPig9620\Java-Practice.git" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b45a342a-7112-4c11-8b71-5190df6a8d76" name="Default Changelist" comment="" />
+      <created>1601469707068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601469707068</updated>
+      <workItem from="1601469708095" duration="3706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="879" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601469922746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="879" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601469922746" />
+    <state x="306" y="121" key="CommitChangelistDialog2" timestamp="1601475866649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="306" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601475866649" />
+    <state x="328" y="118" key="SettingsEditor" timestamp="1601472171994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="328" y="118" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601472171994" />
+    <state x="618" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601476268782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="618" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601476268782" />
+    <state x="574" y="431" key="svn.passwordDialog" timestamp="1601469785760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="431" key="svn.passwordDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601469785760" />
+  </component>
+</project>
